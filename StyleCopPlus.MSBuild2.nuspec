@@ -2,7 +2,7 @@
 <package>
   <metadata minClientVersion="2.5">
     <id>StyleCopPlus.MSBuild2</id>
-    <version>1.9.0</version>
+    <version>1.10.0</version>
     <authors>Jozef</authors>
     <owners>Jozef</owners>
     <licenseUrl>https://github.com/jozefizso/StyleCopPlus.MSBuild2/blob/master/LICENCE</licenseUrl>
@@ -10,7 +10,11 @@
     <iconUrl>https://raw.githubusercontent.com/jozefizso/StyleCopPlus.MSBuild2/master/img/StyleCopPlusLogo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Enables the StyleCop+ plug-in for StyleCop in Visual Studio project files.</description>
-    <releaseNotes>Release Notes: https://stylecopplus.codeplex.com/releases/view/121851</releaseNotes>
+    <releaseNotes>Release Notes: https://stylecopplus.codeplex.com/releases/view/124061
+
+Supported [Fact] and [Theory] attributes for xUnit.net unit testing framework.
+Thanks to Wes McNamee for contributing!
+    </releaseNotes>
     <copyright>Copyright (c) 2014 Jozef Izso</copyright>
     <tags>StyleCop StyleCop+ StyleCopPlus MSBuild</tags>
     <developmentDependency>true</developmentDependency>
